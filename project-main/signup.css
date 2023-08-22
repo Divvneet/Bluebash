@@ -1,0 +1,40 @@
+body{
+    background-image:url("signupbg.jpg");
+    background-size: cover;
+    background-color: #003366;
+}
+#main{
+    background-color: #ffffff;
+    border-radius: 25px;
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 30% ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 6%;
+    padding-bottom: 4%;
+    padding-top: 2%;
+    box-shadow: 5px 5px 10px;
+}
+#button1{
+    background-color: #003366;
+    padding: 10px 100px 10px 100px;
+    border: #003366;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius: 8px;
+}
+#button1:hover{
+    background-color: black;
+}
+#getstarted{
+   margin-right:8%;
+}
+#form input{
+    border-color: #003366;
+    border-radius: 4px;
+    padding: 7px 20px 5px 100px;
+}
+#getstarted h3{
+    color: rgb(80, 80, 80);
+}
